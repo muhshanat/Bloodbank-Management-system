@@ -12,14 +12,11 @@ The application reduces manual paperwork, improves data accuracy, and ensures fa
 
 
 
-
-
-
 Key Features
 
 
 
->>Role-based login system (Admin, Donor, Receiver)
+>>Role-based login system (Admin, Donor,and Receiver)
 
 
 
