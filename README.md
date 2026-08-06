@@ -37,6 +37,11 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 # 📸 Application Screenshots
 
 ---
+# 👤 User Authentication
+
+| 🔑 Login | 📝 Registration |
+|----------|-----------------|
+| ![Login](Screenshots/login.jpg) | ![Register](Screenshots/register.jpg) |
 
 # 🛠️ Admin Module
 
@@ -86,11 +91,7 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 
 ---
 
-# 👤 User Authentication
 
-| 🔑 Login | 📝 Registration |
-|----------|-----------------|
-| ![Login](Screenshots/login.jpg) | ![Register](Screenshots/register.jpg) |
 
 ## 🛠️ Technologies Used
 
