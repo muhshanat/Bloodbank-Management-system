@@ -91,7 +91,7 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 
 | 🏠 Donor Home | 📋 Donor Dashboard |
 |---------------|--------------------|
-| ![Donor Home](Screenshots/donarpage.png) | ![Donor Dashboard](Screenshots/donardashboard.png) |
+| ![Donor Home](Screenshots/donarpage.png) | ![Donor Page](Screenshots/donardashboard.png) |
 
 | 👤 Donor Panel | ❤️ Apply for Donation |
 |----------------|------------------------|
@@ -99,7 +99,7 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 
 | 📨 Donation Requests |
 |-----------------------|
-| ![Donation Requests](Screenshots/donorrequest.png) |
+| ![Donation Dashboard](Screenshots/donorrequest.png) |
 
 ---
 
