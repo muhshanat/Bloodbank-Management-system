@@ -34,8 +34,22 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 
 ---
 
-# 📸 Application Screenshots
+## 🛠️ Technologies Used
 
+* Java
+* Java Swing
+* Object-Oriented Programming (OOP)
+
+---
+
+## 👥 Group Members
+
+| Name                          | Role                     |
+| ----------------------------- | ------------------------ |
+| **Muhshanat Hossain Tanjila** | Administrator Module     |
+| **Asiful Islam**              | Donor & Receiver Modules |
+
+---
 ---
 # 📸 Application Screenshots
 
@@ -98,36 +112,5 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 | 📜 Receiver History |
 |----------------------|
 | ![Receiver History](Screenshots/Receiverhistory.png) |
-
----
-
-# 🩺 Receiver Module
-
-| 🏠 Receiver Dashboard | 📝 Blood Request |
-|------------------------|------------------|
-| ![Receiver Dashboard](Screenshots/receiverdash.png) | ![Receiver Request](Screenshots/Receiverrequest.png) |
-
-| 📜 Request History |
-|--------------------|
-| ![Receiver History](Screenshots/Receiverhistory.png) |
-
----
-
-
-
-## 🛠️ Technologies Used
-
-* Java
-* Java Swing
-* Object-Oriented Programming (OOP)
-
----
-
-## 👥 Group Members
-
-| Name                          | Role                     |
-| ----------------------------- | ------------------------ |
-| **Muhshanat Hossain Tanjila** | Administrator Module     |
-| **Asiful Islam**              | Donor & Receiver Modules |
 
 ---
