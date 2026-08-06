@@ -1,40 +1,52 @@
-# Bloodbank-Management-system
+# 🩸 Blood Bank Management System
 
+## 📌 Project Overview
 
+The **Blood Bank Management System** is a Java-based desktop application developed to streamline blood donation and blood request management. The application provides a centralized system for maintaining donor information, receiver requests, blood inventory, and employee records while ensuring secure access through role-based authentication.
 
-The Blood Bank Management System is a Java-based desktop application designed to manage blood bank activities in an organized and efficient way. The system supports three types of users: Admin, Donor, and Receiver, each with specific roles and permissions.
+The system is designed to reduce manual paperwork, improve data accuracy, and facilitate efficient management of blood bank operations. It enables administrators to oversee the entire system, donors to register and contribute blood information, and receivers to request blood based on availability and blood group.
 
+---
 
+## ✨ Key Features
 
-The Admin manages the overall system, including employee records, blood inventory, and registered user information. Donors can register, log in, and provide their blood details, helping to maintain updated blood stock information. Receivers can register, log in, and request blood based on availability and blood group.
-The application reduces manual paperwork, improves data accuracy, and ensures faster access to blood-related information. It is developed using Java and Java Swing for the graphical user interface and Oracle Database for secure data storage, demonstrating effective use of object-oriented programming and database connectivity.
+### 👤 Administrator
 
+* Secure login
+* Manage employee records
+* Manage blood inventory
+* Monitor donor and receiver information
+* Maintain overall system operations
+* CRUD operation
 
+### 🩸 Donor
 
+* User registration and login
+* Manage personal profile
+* Submit blood donation information
+* View donation details
 
-Key Features
+### ❤️ Receiver
 
+* User registration and login
+* Submit blood requests
+* View request status
 
+---
 
->>Role-based login system (Admin, Donor,and Receiver)
+## 🛠️ Technologies Used
 
+* Java
+* Java Swing
+* Object-Oriented Programming (OOP)
 
+---
 
->>Donor registration and blood information management
+## 👥 Group Members
 
+| Name                          | Role                     |
+| ----------------------------- | ------------------------ |
+| **Muhshanat Hossain Tanjila** | Administrator Module     |
+| **Asiful Islam**              | Donor & Receiver Modules |
 
-
->>Receiver blood request management
-
-
-
->>Admin dashboard for employee and inventory management
-
-
-
->>Blood stock monitoring by blood group
-
-
-
->>Secure authentication and database handling
-
+---
