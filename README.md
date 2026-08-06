@@ -37,11 +37,21 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 # 📸 Application Screenshots
 
 ---
+# 📸 Application Screenshots
+
+---
+
 # 👤 User Authentication
 
-| 🔑 Login | 📝 Registration |
-|----------|-----------------|
-| ![Login](Screenshots/login.jpg) | ![Register](Screenshots/register.jpg) |
+| 🏠 Welcome Page | 🔐 Login |
+|-----------------|----------|
+| ![Welcome](Screenshots/welcome.jpg) | ![Login](Screenshots/login.jpg) |
+
+| 📝 Registration | 🩸 Blood Compatibility Information |
+|-----------------|------------------------------------|
+| ![Register](Screenshots/register.jpg) | ![Blood Compatibility](Screenshots/information.png) |
+
+---
 
 # 🛠️ Admin Module
 
@@ -53,29 +63,41 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 |--------------------------|--------------------|
 | ![Employee Information](Screenshots/employeeinfo.jpg) | ![Inventory](Screenshots/inventory.jpg) |
 
-| 📊 Blood Compatibility Information | 📜 Login History |
-|------------------------------------|------------------|
-| ![Blood Compatibility](Screenshots/information.png) | ![Login History](Screenshots/loginhistory.jpg) |
+| 📜 Login History |
+|------------------|
+| ![Login History](Screenshots/loginhistory.jpg) |
 
 ---
 
 # 🩸 Donor Module
 
-| 🏠 Welcome Page | 📝 Donor Registration |
-|-----------------|-----------------------|
-| ![Welcome](Screenshots/welcome.jpg) | ![Register](Screenshots/donarregister.png) |
+| 📝 Donor Registration | 🔐 Donor Login |
+|------------------------|----------------|
+| ![Donor Registration](Screenshots/donarregister.png) | ![Donor Login](Screenshots/donarlogin.png) |
 
-| 🔐 Donor Login | 🏠 Donor Home |
-|----------------|---------------|
-| ![Donor Login](Screenshots/donarlogin.png) | ![Donor Home](Screenshots/donarpage.png) |
+| 🏠 Donor Home | 📋 Donor Dashboard |
+|---------------|--------------------|
+| ![Donor Home](Screenshots/donarpage.png) | ![Donor Dashboard](Screenshots/donardashboard.png) |
 
-| 📋 Donor Dashboard | 👤 Donor Panel |
-|--------------------|----------------|
-| ![Donor Dashboard](Screenshots/donardashboard.png) | ![Donor Panel](Screenshots/donorpanel.png) |
+| 👤 Donor Panel | ❤️ Apply for Donation |
+|----------------|------------------------|
+| ![Donor Panel](Screenshots/donorpanel.png) | ![Apply for Donation](Screenshots/donorapply.png) |
 
-| ❤️ Apply for Donation | 📨 Donation Requests |
-|------------------------|----------------------|
-| ![Apply](Screenshots/donorapply.png) | ![Donation Request](Screenshots/donorrequest.png) |
+| 📨 Donation Requests |
+|-----------------------|
+| ![Donation Requests](Screenshots/donorrequest.png) |
+
+---
+
+# 🩺 Receiver Module
+
+| 🏠 Receiver Dashboard | 📝 Blood Request |
+|------------------------|------------------|
+| ![Receiver Dashboard](Screenshots/receiverdash.png) | ![Receiver Request](Screenshots/Receiverrequest.png) |
+
+| 📜 Receiver History |
+|----------------------|
+| ![Receiver History](Screenshots/Receiverhistory.png) |
 
 ---
 
