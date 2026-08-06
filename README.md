@@ -50,7 +50,6 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 | **Asiful Islam**              | Donor & Receiver Modules |
 
 ---
----
 # 📸 Application Screenshots
 
 ---
@@ -96,10 +95,6 @@ The system is designed to reduce manual paperwork, improve data accuracy, and fa
 | 👤 Donor Panel | ❤️ Apply for Donation |
 |----------------|------------------------|
 | ![Donor Panel](Screenshots/donorpanel.png) | ![Apply for Donation](Screenshots/donorapply.png) |
-
-| 📨 Donation Requests |
-|-----------------------|
-| ![Donation Dashboard](Screenshots/donorrequest.png) |
 
 ---
 
